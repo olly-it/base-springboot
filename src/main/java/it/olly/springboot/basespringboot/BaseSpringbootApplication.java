@@ -1,4 +1,4 @@
-package com.olly.springboot.basespringboot;
+package it.olly.springboot.basespringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan({ "com.olly" })
-@EntityScan("com.olly")
+@ComponentScan({ "it.olly" })
+@EntityScan("it.olly")
 public class BaseSpringbootApplication {
 
     public static void main(String[] args) {

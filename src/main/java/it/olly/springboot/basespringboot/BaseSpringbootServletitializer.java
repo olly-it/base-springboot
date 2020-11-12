@@ -1,4 +1,4 @@
-package com.olly.springboot.basespringboot;
+package it.olly.springboot.basespringboot;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

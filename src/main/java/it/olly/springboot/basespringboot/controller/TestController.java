@@ -1,4 +1,4 @@
-package com.olly.springboot.basespringboot.controller;
+package it.olly.springboot.basespringboot.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -6,7 +6,7 @@
     </Console>
   </Appenders>
   <Loggers>
-    <Logger name="com.olly" level="debug" additivity="false">
+    <Logger name="it.olly" level="debug" additivity="false">
       <AppenderRef ref="Console"/>
     </Logger>
     <Root level="error">
